@@ -1,0 +1,28 @@
+body{
+    background: #EDF5FC; color: green;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif; color: #66A182;
+    }
+    h1{
+    font-family: 'Anton', sans-serif; color: #2E4057;
+    font-size: 40px;
+    text-align: center;
+    }
+    h2 {
+    font-family: 'Russo One', sans-serif; color: #66A182;
+    font-size: 20px;
+    }
+    a {
+    color: #A6B1E1;
+    font-family: 'Montserrat', sans-serif;
+    }
+    a:hover {
+    text-decoration: none; color: #A6B1E1;
+    }
+
+    footer a {
+    color: lightgrey; font-size: 25px;
+    }
+    footer a:hover { 
+    color: white;
+    }
