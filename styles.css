@@ -26,3 +26,59 @@ body{
     footer a:hover { 
     color: white;
     }
+
+    body{
+    background: #EDF5FC; color: green;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif; color: #66A182;
+    }
+    h1{
+    font-family: 'Anton', sans-serif; color: #2E4057;
+    font-size: 40px;
+    text-align: center;
+    }
+    h2 {
+    font-family: 'Russo One', sans-serif; color: #66A182;
+    font-size: 20px;
+    }
+    a {
+    color: #A6B1E1;
+    font-family: 'Montserrat', sans-serif;
+    }
+    a:hover {
+    text-decoration: none; color: #A6B1E1;
+    }
+
+    footer a {
+    color: lightgrey; font-size: 25px;
+    }
+    footer a:hover { 
+    color: white;
+    }
+#banner{
+ text-align: center;
+ background-image: url("https://unsplash.it/1300/600?random");
+ background-size: cover;
+ padding: 150px;
+ color: white;
+ text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+ color: white;
+ font-size: 50px;
+}
+#banner p {
+ color: white;
+ opacity: 0.8;
+ font-size: 30px;
+ font-weight: lighter;
+}
+#footer{
+ padding: 30px;
+ background: rgb(30, 30, 30);
+ color: lightgrey;
+}
+.tarjeta{
+ padding: 50px;
+ font-weight: lighter;
+}
