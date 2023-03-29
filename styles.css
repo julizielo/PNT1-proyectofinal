@@ -32,41 +32,6 @@ footer a {
 footer a:hover {
   color: white;
 }
-
-body {
-  background: #edf5fc;
-  color: green;
-  font-size: 25px;
-  font-family: "Montserrat", sans-serif;
-  color: #66a182;
-}
-h1 {
-  font-family: "Anton", sans-serif;
-  color: #2e4057;
-  font-size: 40px;
-  text-align: center;
-}
-h2 {
-  font-family: "Russo One", sans-serif;
-  color: #66a182;
-  font-size: 20px;
-}
-a {
-  color: #a6b1e1;
-  font-family: "Montserrat", sans-serif;
-}
-a:hover {
-  text-decoration: none;
-  color: #a6b1e1;
-}
-
-footer a {
-  color: lightgrey;
-  font-size: 25px;
-}
-footer a:hover {
-  color: white;
-}
 #banner {
   text-align: center;
   background-image: url("https://unsplash.it/1300/600?random");
